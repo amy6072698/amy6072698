@@ -1,6 +1,6 @@
 # Hi 我是 Amy 👋
 
-## 專業技能
+## 🔮專業技能
 
 ### 前端技術
 
@@ -25,7 +25,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## 專案
+## 💻專案
 
 - 長照好厝邊 - React 長照機構預約網站 ( [Demo](https://jack-xiao-2024.github.io/ReactC5/) | [Source](https://github.com/Jack-Xiao-2024/ReactC5) )
 - 長照好厝邊 - 純切版 Bootstrap 長照機構預約網站 ( [Demo](https://jack-xiao-2024.github.io/Project_D01/) | [Source](https://github.com/Jack-Xiao-2024/Project_D01) )
@@ -36,7 +36,7 @@
 
 ![首頁](https://github.com/amy6072698/amy10blog/blob/dev/themes/next/source/images/preveiw.png?raw=true)
 
-## 近期
+## 🦾近期
 
 努力催生作品、積極求職中
 
