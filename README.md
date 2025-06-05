@@ -1,6 +1,6 @@
 # Hi 我是 Amy 👋
-<div>
-  <h1 style="text-align: center;">Hi 我是 Amy 👋</h1>
+<div style="text-align: center;">
+  <h1>Hi 我是 Amy 👋</h1>
 </div>
 
 
