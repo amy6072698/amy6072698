@@ -1,8 +1,4 @@
 # Hi 我是 Amy 👋
-<div style="display: flex; justify-content: center;">
-  <h1>Hi 我是 Amy 👋</h1>
-</div>
-
 
 ## 🔮專業技能
 
