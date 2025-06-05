@@ -29,18 +29,20 @@
 
 - 長照好厝邊 - React 長照機構預約網站
 
-[Demo]()
-[Source]()
+  - [Demo](https://jack-xiao-2024.github.io/ReactC5/)
+  - [Source](https://github.com/Jack-Xiao-2024/ReactC5)
 
 - 長照好厝邊 - 純切版 Bootstrap 長照機構預約網站
 
-[Demo]()
-[Source]()
+  - [Demo](https://jack-xiao-2024.github.io/Project_D01/)
+  - [Source](https://github.com/Jack-Xiao-2024/Project_D01)
+    ![首頁](https://ithelp.ithome.com.tw/upload/images/20250604/20172694RTV2TCg2Yk.jpg)
 
 - Amy咂摳修練手冊 - Hexo 個人部落格
 
-[My Blog]()
-[Source]()
+  - [My Blog](https://amy6072698.github.io/amy10blog/)
+  - [Source](https://github.com/amy6072698/amy10blog)
+    ![首頁](https://github.com/amy6072698/amy10blog/blob/dev/themes/next/source/images/preveiw.png?raw=true)
 
 ## 近期
 
