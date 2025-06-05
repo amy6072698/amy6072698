@@ -1,6 +1,8 @@
 # Hi 我是 Amy 👋
+<div>
+  <h1 style="text-align: center;">Hi 我是 Amy 👋</h1>
+</div>
 
-<h1 style="text-align: center;">Hi 我是 Amy 👋</h1>
 
 ## 🔮專業技能
 
